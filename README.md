@@ -1,2 +1,2 @@
 # firebase-test
-A quick test of firebase
+A quick test of firebase.
